@@ -1,6 +1,8 @@
 ### Olá! Eu sou a  Dhebora Alice 👋
 
-- 🔭 Hoje trabalho como Analista de Requisitos e futura desenvolvedora Mobile
+- 🔭 Hoje trabalho como Analista de Requisitos e 
+- :woman_student: Formada em Ciência da Computação
+- :computer::iphone: futura desenvolvedora Mobile
 - 🌱 Estudando Mobile/java
 
 <div align="center">

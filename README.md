@@ -1,7 +1,6 @@
 ### Olá! Eu sou a  Dhebora Alice 👋
 
 - :woman_student: Formada em Ciência da Computação
-
 - 🌱 Estudando Mobile/java
 
 <div align="center">
